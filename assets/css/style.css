@@ -1,0 +1,42 @@
+
+
+.title{
+    background-color: #efecef;
+    width: 100%;
+    text-align: center;
+    color: #42131e;
+    padding:20px;
+  
+}
+
+.container{
+  height: 100%;
+  padding-top: 50px;
+  text-align: center;
+  background-color: #87637b;
+  width: 60%;
+  color:#fff;
+  font-size: 22px;
+  outline: solid #42131e;
+ 
+}
+
+#trivisAnsers{
+  padding:5px;
+}
+
+.radio-inline{
+  padding:5px;
+}
+
+.buttons{
+  margin-top:10px;
+  padding:5px;
+}
+
+#countDown{
+  color:  #42131e;
+  outline: solid #FFDC00;
+
+}
+
